@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @dialog-guide
+- 📫 admin@dialog.guide
